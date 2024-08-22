@@ -1,5 +1,11 @@
 # delivery
 
+
+![delivery app home screen](https://github.com/user-attachments/assets/04c09819-8c63-4b72-bbd3-068cb6fd6f1f)
+
+
+![order screen](https://github.com/user-attachments/assets/fa20e419-16db-4591-b4c4-90197ac75643)
+
 ## User Stories for Food Delivery Service
 
 ### 1. Guest User Orders
